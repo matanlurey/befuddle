@@ -1,6 +1,18 @@
 # befuddle
 
-Obfuscate JSON.
+<p align="center">
+  Obfuscate JSON.
+  <br>
+  <a href="https://travis-ci.org/matanlurey/befuddle">
+    <img src="https://travis-ci.org/matanlurey/befuddle.svg?branch=master" alt="Build Status" />
+  </a>
+  <a href="https://pub.dartlang.org/packages/befuddle">
+    <img src="https://img.shields.io/pub/v/befuddle.svg" alt="Pub Package Version" />
+  </a>
+  <a href="https://www.dartdocs.org/documentation/befuddle/latest">
+    <img src="https://img.shields.io/badge/dartdocs-latest-blue.svg" alt="Latest Dartdocs" />
+  </a>
+</p>
 
 Disclaimer: This is not an official Google or Dart project.
 
