@@ -1,0 +1,20 @@
+name: befuddle
+description: >
+  Obfuscate JSON.
+version: 0.1.0
+authors:
+  - Matan Lurey <matanl@google.com>
+homepage: https://github.com/matanlurey/befuddle
+
+environment:
+  sdk: ">=1.22.0 <2.0.0"
+
+dependencies:
+  args: ^1.0.0
+  collection: ^1.8.0
+
+dev_dependencies:
+  test: ^0.12.0
+
+executables:
+  befuddle:
